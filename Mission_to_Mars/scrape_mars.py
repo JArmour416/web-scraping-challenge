@@ -100,7 +100,7 @@ def scrape():
     # Store data in a dictionary
     mars_data = {
         "news_title": news_title,
-        "news_p": news_p,
+        "news_para": news_para,
         "featured_image_url": featured_image_url,
         "mars_weather": mars_weather,
         "mars_facts": mars_facts,
